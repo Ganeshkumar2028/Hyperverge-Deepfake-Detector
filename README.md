@@ -10,7 +10,7 @@
     A deepfake detector built using NextJS, FastAPI and Tensorflow
     <br/>
     <br/>
-    <a href="https://deepfake-detector.vercel.app/">View Demo</a>
+    
   </p>
 </p>
 
@@ -125,10 +125,4 @@ uvicorn main:app --reload
 - Code Page
   ![Screen Shot](resources/code.png)
 
-## Authors
 
-Built with ❤️ by:
-
-- **David Perez** - [David Perez](https://github.com/davidperjac)
-- **Fernando Bucheli** - [Fernando Bucheli](https://github.com/ferbucheli)
-- **David Bravo** - [David Bravo](https://github.com/davalbra)
